@@ -79,10 +79,10 @@ Learn via PPO to reach the goal while avoiding collisions
 🔄 Robustness in Dynamic Obstacle Scenarios
 
 📸 Media
-https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media/Unseen%20env.jpg
+https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media/unseen%20env.jpg
 
 🎥 Demo Videos
-https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media/Generazeion%20env.MOV
+https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media/generazation%20-unseen%20env.mp4
 
 👩‍💻 Author
 Maryam Allawi
