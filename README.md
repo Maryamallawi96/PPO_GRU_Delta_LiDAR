@@ -90,10 +90,24 @@ Learn via PPO to reach the goal while avoiding collisions
 
 🔄 Robustness in Dynamic Obstacle Scenarios
 
-Watch demo videos:
+1. Test (front view )
+This video shows the drone’s front view during navigation trials. It demonstrates how the drone maneuvers and avoids obstacles from a forward-facing perspective, providing insight into its obstacle detection and real-time reactive capabilities.
+
 https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media2/Test%20(front%20view).MOV
+
+2. Test (Top view).MOV
+This video presents a top-down perspective of the drone’s navigation path. It highlights how the drone plans its route and dynamically adjusts its trajectory to avoid obstacles, giving a comprehensive overview of path planning efficiency.
+
 https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media2/Test(%20Top%20view).MOV
+
+3. Training Environments.png
+This image shows snapshots of the simulated training environments where the drone learns navigation. It depicts the layout and various obstacles the drone encounters during training to ensure robustness across different scenarios
+
 https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media2/Training%20Environments.png
+
+4. unseen env.tunnel
+This file (likely an image or environment file) represents a previously unseen test environment used to evaluate the drone’s ability to generalize its navigation skills beyond the training setup, assessing adaptability and robustness
+
 https://github.com/Maryamallawi96/PPO_GRU_Delta_LiDAR/blob/main/Media2/unseen%20env.tunnel.png
 
 
